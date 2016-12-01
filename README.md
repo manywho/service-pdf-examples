@@ -15,7 +15,7 @@ You should be able to see the pdf populated.
 **Example: Generate PDF from HTML**
 
 Import the flow (example-generate-pdf-from-html.json) into your ManyWho account.
-Run the flow, you will see you a link, open that link in the browser.
+Run the flow, you will see a link, open that link in the browser.
 You should be able to see the pdf with the word "content".
 
 ### More info
