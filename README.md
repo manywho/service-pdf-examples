@@ -18,6 +18,12 @@ Import the flow (example-generate-pdf-from-html.json) into your ManyWho account.
 Run the flow, you will see a link, open that link in the browser.
 You should be able to see the pdf with the word "content".
 
+**Example: Concatenate PDF**
+
+Import the flow (example-concatenate-pdf.json) into your ManyWho account.
+Run the flow, upload a file and click next, upload another file and click next.
+Click in the link that appear in the screen, you should be able to see the pdf result of concatenate the uploaded pdfs.
+
 ### More info
 
 You can have more information of how to configure this service follow the instructions in https://github.com/manywho/service-box/wiki
