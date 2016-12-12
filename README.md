@@ -30,6 +30,12 @@ Import the flow (example-concatenate-pdf.json) into your ManyWho account.
 Run the flow, upload a file and click next, upload another file and click next.
 Click in the link that appear in the screen, you should be able to see the pdf result of concatenate the uploaded pdfs.
 
+**Example: PDF Type**
+
+Import the flow (example-pdf-type.json) into your ManyWho account.
+Run the flow, You will see a list of PDF Input Fields.
+Note: if you send as parameter this list and the example_populate_pdf.pdf to the action Populate Pdf forms you will get as result the pdf populated.
+
 ### More info
 
 You can have more information of how to configure this service follow the instructions in https://github.com/manywho/service-box/wiki
