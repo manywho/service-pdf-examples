@@ -11,13 +11,6 @@ Import the flow (example-create-pdf-from-url.json) into your ManyWho account.
 Run the flow and upload a file (e.g. example_populate_pdf.pdf) then click in "go".
 Click in the link and you will see a pdf.
 
-**Example: Populate PDF**
-
-Import the flow (example-populate-pdf.json) into your ManyWho account.
-Download the file example_populate_pdf.pdf, open it and check that is not populated.
-Run the flow and upload the file example_populate_pdf.pdf, the flow will show you a link, open that link in the browser.
-You should be able to see the pdf populated.
-
 **Example: Generate PDF from HTML**
 
 Import the flow (example-generate-pdf-from-html.json) into your ManyWho account.
@@ -29,6 +22,13 @@ You should be able to see the pdf with the word "content".
 Import the flow (example-concatenate-pdf.json) into your ManyWho account.
 Run the flow, upload a file and click next, upload another file and click next.
 Click in the link that appear in the screen, you should be able to see the pdf result of concatenate the uploaded pdfs.
+
+**Example: Populate PDF**
+
+Import the flow (example-populate-pdf.json) into your ManyWho account.
+Download the file example_populate_pdf.pdf, open it and check that is not populated.
+Run the flow and upload the file example_populate_pdf.pdf, the flow will show you a link, open that link in the browser.
+You should be able to see the pdf populated.
 
 **Example: PDF Type**
 
