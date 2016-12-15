@@ -5,7 +5,7 @@ These flows are examples of how to use PDF Service with ManyWho.
 
 ## Usage
 
-**Example: Concatenate PDF**
+**Example: Create PDF from URL**
 
 Import the flow (example-create-pdf-from-url.json) into your ManyWho account.
 Run the flow and upload a file (e.g. example_populate_pdf.pdf) then click in "go".
